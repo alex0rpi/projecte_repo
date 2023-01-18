@@ -5,3 +5,5 @@ F1 fa el mateix que CTRL SHIFT Pjjjj
 BOn diaaaaa
 
 aixo es la branca ex1
+
+AIXO ES LA BRANCA EXERCICI2
