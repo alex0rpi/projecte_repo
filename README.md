@@ -1,2 +1,4 @@
 # projecte_repo
-repo_prova_masterclass
+Repo_prova_masterclass
+
+F1 fa el mateix que CTRL SHIFT P
